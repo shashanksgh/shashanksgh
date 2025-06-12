@@ -6,7 +6,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashanksgh" alt="shashanksgh" /></a> </p> -->
 - 🌱 Experienced in **Spring Boot, MySQL, Kafka**
 
-- 💬 Ask me about **Data Structures, Algorithms**
+- 💬 Ask me about **Java, Data Structures, Algorithms**
 
 - 📫 How to reach me **shashank.sgh.02@gmail.com**
 
